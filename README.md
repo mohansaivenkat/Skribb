@@ -4,6 +4,8 @@ Skribb is a **full-stack web application** built for **Sri Balaji Books & Statio
 
 ## Link - https://skribb.vercel.app
 
+## Collaborators - [Mutyala Murari (ChatBot Assisstant)](https://github.com/7Murari)
+
 ## 🚀 Features  
 ✅ **Browse Products** – Explore a variety of stationery items.  
 ✅ **Order & Pickup** – Place orders online and collect them from the store.  
